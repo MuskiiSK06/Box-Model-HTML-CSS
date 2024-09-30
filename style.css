@@ -1,0 +1,27 @@
+.Box{
+    height: 200px;
+    width: 200px;
+}
+
+#Box1{
+    background-color: aqua;
+    padding: 20px;
+    border: 10px solid black;
+}
+
+p{
+    margin: 0;
+}
+
+#Box2{
+    background-color: red;
+    border: solid black;
+    border-width: 20px 10px;
+    margin-left: 260px;
+}
+
+#Box3{
+    background-color: blue;
+    border: 10px solid black;
+    margin-left: 40px;
+}
